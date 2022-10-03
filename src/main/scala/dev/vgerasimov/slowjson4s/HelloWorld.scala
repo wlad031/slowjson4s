@@ -1,4 +1,4 @@
-package dev.vgerasimov.template
+package dev.vgerasimov.slowjson4s
 
 object Hello:
   def apply(s: String): String = s"Hello $s!"
